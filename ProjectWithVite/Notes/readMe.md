@@ -21,6 +21,7 @@ plugins: [vue()],
 ```
 
 * ``` <router-link to="/about">About</router-link> ``` ==  ``` <a href="/about">A tag About</a> ```
+* Make "views" folder which will include our custom content
 * Add file as jsconfig.json
 
 ```json
