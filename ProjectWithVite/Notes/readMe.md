@@ -21,7 +21,4 @@ plugins: [vue()],
 ```
 
 *
-  ``` <router-link to="/about">About</router-link> ```
-
-                == 
-  ``` <a href="/about">A tag About</a> ```
+  ``` <router-link to="/about">About</router-link> ``` ==  ``` <a href="/about">A tag About</a> ```
