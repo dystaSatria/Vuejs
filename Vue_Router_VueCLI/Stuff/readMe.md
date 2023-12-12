@@ -1,1 +1,1 @@
-* Stuff for my project 
+# SPA Package (before cleaning) 
