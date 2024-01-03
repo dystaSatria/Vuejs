@@ -1,4 +1,4 @@
 # Summary
 
-![yutub](https://youtu.be/GGFXYBZeOtE?si=NH3aGvDl5BblsgvV)
+[![Video Title](https://img.youtube.com/vi/GGFXYBZeOtE/0.jpg)](https://www.youtube.com/watch?v=GGFXYBZeOtE)
 
